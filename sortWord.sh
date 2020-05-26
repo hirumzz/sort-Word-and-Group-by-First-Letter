@@ -25,4 +25,6 @@ else
         echo ""
         echo "Example: "
         echo ""
-        echo "sortWord.sh example.txt"                                                                                                                                          echo ""                                                                                                                                                         fi;
+        echo "sortWord.sh example.txt"  
+        echo ""
+fi;
